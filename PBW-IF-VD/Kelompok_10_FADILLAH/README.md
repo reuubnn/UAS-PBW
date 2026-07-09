@@ -2,6 +2,7 @@
   <h1>🚀 LendSys - Enterprise Inventory Lending System</h1>
   <p><strong>Ujian Akhir Semester (UAS) Pemrograman Berbasis Web</strong></p>
   <p>Sistem Informasi Manajemen Peminjaman Alat/Barang berarsitektur Multi-Page berbasis Next.js dengan antarmuka UI/UX Enterprise SaaS.</p>
+  <p>🌍 <strong>Live Demo:</strong> <a href="https://uas-pbw-six.vercel.app/" target="_blank">https://uas-pbw-six.vercel.app/</a></p>
 </div>
 
 <br />
